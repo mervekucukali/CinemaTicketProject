@@ -1,1 +1,1 @@
-# CinemaTicketProject(İlk Bireysel Projem)
+# CinemaTicketProject
